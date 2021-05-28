@@ -1,0 +1,2 @@
+# chromeplugin
+maptension for chrome 
